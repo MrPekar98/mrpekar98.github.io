@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "20211124LHO- 5146.JPG"
+  avatar           : "profile.jpg"
   name             : "Martin Pekár"
   pronouns         : # example: "she/her"  
   bio              : "My research is in semantic data lakes, with a focus on semantic table search, entity linking, and progressive indexing (in situ querying)."
