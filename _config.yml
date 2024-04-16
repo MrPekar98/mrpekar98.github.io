@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Personal Website of PhD Candidate Martin Pekár"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Martin Pekár"
 description              : &description "A PhD candidate in semantic data lakes."
@@ -22,9 +22,9 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "Martin Pekár"
+  name             : "Martin Pekár Christensen"
   pronouns         : # example: "she/her"  
-  bio              : "My research is in semantic data lakes, with a focus on semantic table search, entity linking, and progressive indexing (in situ querying)."
+  bio              : "I am a PhD candidate researching in semantic data lakes, where I aim to enable example-driven data discovery using semantic-aware table search by the utlization of knowledge graphs. Scalability is a substantial part of this research."
   location         : "Earth"
   employer         : "Aalborg University"
   uri              : # URL
