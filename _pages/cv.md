@@ -13,10 +13,10 @@ I am a computer science Ph.D. candidate at Aalborg University and I my research 
 
 Positions
 ======
-* June, 2024 - September 2024: _Hasso Plattner Institute_, Research visitor
-* September, 2021 - August, 2025 (expected): _Aalborg University_ - PhD candidate on semantic data lakes
-* November, 2020 - August, 2021: _Aalborg University_ - Research Assistant on RDF graph database query optimization
-* April, 2015 - October, 2020: _Nykilde Aps_ - Software developer
+* June, 2024 - September 2024: __Hasso Plattner Institute__, Research visitor
+* September, 2021 - August, 2025 (expected): __Aalborg University__ - PhD candidate on semantic data lakes
+* November, 2020 - August, 2021: __Aalborg University__ - Research Assistant on RDF graph database query optimization
+* April, 2015 - October, 2020: __Nykilde Aps__ - Software developer
 
 Education
 ======
