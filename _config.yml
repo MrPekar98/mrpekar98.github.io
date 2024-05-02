@@ -12,9 +12,9 @@ title                    : "Home"
 title_separator          : "-"
 name                     : &name "Martin Pekár"
 description              : &description "A PhD candidate in semantic data lakes."
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://mrpekar98.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "MrPekar98/mrpekar.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -25,7 +25,7 @@ author:
   name             : "Martin Pekár Christensen"
   pronouns         : # example: "she/her"  
   bio              : "I am a PhD candidate researching in semantic data lakes, where I aim to enable example-driven data discovery using semantic-aware table search by the utlization of knowledge graphs. Scalability is a substantial part of this research."
-  location         : "Earth"
+  location         : "Aalborg"
   employer         : "Aalborg University"
   uri              : # URL
   email            : "mpch@cs.aad.dk" 
