@@ -11,12 +11,12 @@ redirect_from:
 
 I am a computer science Ph.D. candidate at Aalborg University and I my research is in semantic data lakes, where I work on enabling semantic-aware data lake search by utilizing knowledge graphs and example-driven querying, scalable Big data management, entity linking, and (progressive) data lake indexing.
 
-Work experience
+Positions
 ======
-* June, 2024 - September 2024: *Hasso Plattner Institute*, Research visitor
-* September, 2021 - August, 2025 (expected): *Aalborg University* - PhD candidate on semantic data lakes
-* November, 2020 - August, 2021: *Aalborg University* - Research Assistant on RDF graph database query optimization
-* April, 2015 - October, 2020: *Nykilde Aps* - Software developer
+* June, 2024 - September 2024: _Hasso Plattner Institute_, Research visitor
+* September, 2021 - August, 2025 (expected): _Aalborg University_ - PhD candidate on semantic data lakes
+* November, 2020 - August, 2021: _Aalborg University_ - Research Assistant on RDF graph database query optimization
+* April, 2015 - October, 2020: _Nykilde Aps_ - Software developer
 
 Education
 ======
