@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-I am a computer science Ph.D. candidate at Aalborg University and I my research is in semantic data lakes, where I work on enabling semantic-aware data lake search by utilizing knowledge graphs and example-driven querying, scalable Big data management, entity linking, and (progressive) data lake indexing.
+I am a computer science Ph.D. candidate at Aalborg University and my research is in semantic data lakes, where I work on enabling semantic-aware data lake search by utilizing knowledge graphs and example-driven querying, scalable Big data management, entity linking, and (progressive) data lake indexing.
 
 Positions
 ======
