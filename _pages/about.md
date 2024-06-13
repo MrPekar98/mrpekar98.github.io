@@ -15,6 +15,12 @@ Publications
 ------
 - [A Large Scale Test Corpus for Semantic Table Search](https://mrpekar98.github.io//publications/2024-07-14_a_large_scale_test_corpus_for_semantic_table_search/)
 
+Positions
+------
+- Jun, 2024 - Sep, 2024, Hasso Plattner Institute, Research visitor
+- Sep, 2021 - Aug, 2025, Aalborg University, PhD candidate in semantic data lakes
+- Nov, 2020 - Aug, 2021, Aalborg University, Research assistant on RDF database query optimization
+
 Education
 ------
 * Ph.D in Computer Science, Aalborg University, 2025 (expected)
