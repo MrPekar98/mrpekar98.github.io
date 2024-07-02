@@ -7,4 +7,4 @@ venue: "Aalborg University, Computer Science"
 date: 2024-01-23
 location: "Aalborg, Denmark"
 ---
-Censoring 5th semester group exam of a group working on entity relation extraction from text.
+Censoring 5th semester group exam on entity relation extraction from text.
