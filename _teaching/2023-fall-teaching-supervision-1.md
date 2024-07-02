@@ -7,4 +7,4 @@ venue: "Aalborg University, Computer Science"
 date: 2023-09-01
 location: "Aalborg, Denmark"
 ---
-Supervision of 5th semester student on a multi-group semester project working on senantic document retrieval.
+Supervision of 5th semester student on a multi-group semester project working on semantic document retrieval.
