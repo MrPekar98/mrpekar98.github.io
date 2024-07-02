@@ -7,4 +7,4 @@ venue: "Aalborg University, Computer Science"
 date: 2024-01-18
 location: "Aalborg, Denmark"
 ---
-Censoring 5th semester group exam of a group working on knowledge graph entity linking.
+Censoring 5th semester group exam on knowledge graph entity linking.
