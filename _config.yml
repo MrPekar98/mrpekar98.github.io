@@ -24,7 +24,7 @@ author:
   avatar           : "profile.jpg"
   name             : "Martin Pekár Christensen"
   pronouns         : # example: "she/her"  
-  bio              : "I am a PhD candidate researching in semantic data lakes, where I aim to enable example-driven data discovery using semantic-aware table search by the utlization of knowledge graphs. Scalability is a substantial part of this research."
+  bio              : "I am a PhD candidate researching semantic data lakes, where I aim to enable example-driven data discovery using semantic-aware table search by utilizing knowledge graphs and adaptive and progressive indexing for data discovery. Scalability is a substantial part of this research."
   location         : "Aalborg"
   employer         : "Aalborg University"
   uri              : # URL
