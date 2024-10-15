@@ -13,6 +13,7 @@ Scalability is a substantial part of this research.
 
 Publications
 ------
+- [Fantastic Tables and Where to Find Them: Table Search in Semantic Data Lakes](https://mrpekar98.github.io//publications/2025-03-25_fantastic_tables_and_where_to_find_them_table_search_in_semantic_data_lakes/)
 - [A Large Scale Test Corpus for Semantic Table Search](https://mrpekar98.github.io//publications/2024-07-14_a_large_scale_test_corpus_for_semantic_table_search/)
 
 Positions
