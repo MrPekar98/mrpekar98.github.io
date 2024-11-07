@@ -44,9 +44,11 @@ Teaching
 
 Skills
 ======
-* C/C++, Python, and Java programming and SQL, SPARQL, and Cypher database querying
+* C/C++, Python, Bash, and Java programming and SQL, SPARQL, and Cypher querying
 * Relational and graph databases
 * Large-scale system architectures
+* Big Data management
+* Data integration
 * Information retrieval
 * Semantic Web
 * Linux
