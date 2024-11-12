@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 Martin Pekár is a PhD candidate at the Department of Computer Science, Aalborg University under supervision by Prof. Katja Hose and Assoc. Prof. [Matteo Lissandrini](https://lissandrini.com/).
-His research area is in information retrieval, specifically in semantic data lakes, where he aims to enable example-driven data discovery using semantic-aware table search by utilizing knowledge graphs and adaptive and progressive indexing for data discovery.
+His research area is in dataset search, specifically in semantic data lakes, where he aims to enable example-driven data discovery using semantic-aware table search by utilizing knowledge graphs and adaptive and progressive indexing for data discovery.
 Scalability is a substantial part of this research.
 
 Publications
