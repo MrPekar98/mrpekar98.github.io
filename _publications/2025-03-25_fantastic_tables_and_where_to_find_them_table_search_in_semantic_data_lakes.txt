@@ -3,7 +3,7 @@ title: "Fantastic Tables and Where to Find Them: Table Search in Semantic Data L
 collection: publications
 date: 2025-03-24
 venue: 'EDBT'
-paperurl: 'https://people.cs.aau.dk/~matteo/pdf/EDBT25-thetis.pdf'
+paperurl: 'https://openproceedings.org/2025/conf/edbt/paper-108.pdf'
 citation: 'Martin Pekár Christensen, Aristotelis Leventidis, Matteo Lissandrini, Laura Di Rocco, Renée J. Miller, Katja Hose. (2024). &quot;Fantastic Tables and Where to Find Them: Table Search in Semantic Data Lakes.&quot; <i>EDBT 2025</i>.'
 ---
 
