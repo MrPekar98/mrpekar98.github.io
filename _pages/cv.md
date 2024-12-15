@@ -31,7 +31,7 @@ Education
 
 Positions
 ======
-* June, 2024 - September 2024: __Hasso Plattner Institute__, Research visitor
+* June, 2024 - September 2024: __Hasso Plattner Institute__ - Research visitor
 * September, 2021 - August, 2025 (expected): __Aalborg University__ - PhD candidate on semantic data lakes
 * November, 2020 - August, 2021: __Aalborg University__ - Research Assistant on RDF graph database query optimization
 * April, 2015 - October, 2020: __Nykilde Aps__ - Software developer
