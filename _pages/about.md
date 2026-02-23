@@ -13,6 +13,7 @@ Scalability is a substantial part of this research.
 
 Publications
 ------
+- [An End-to-End Re-Evaluation of Table Entity-Linking Systems](https://mrpekar98.github.io//publications/2026-05-04_an_end-to-end_re-evaluation_of_table_entity-linking_systems/)
 - [Jazero: A Semantic Table Search System](https://mrpekar98.github.io//publications/2026-05-04_jazero_a_semantic_table_search_system/)
 - [Fantastic Tables and Where to Find Them: Table Search in Semantic Data Lakes](https://mrpekar98.github.io//publications/2025-03-25_fantastic_tables_and_where_to_find_them_table_search_in_semantic_data_lakes/)
 - [A Large Scale Test Corpus for Semantic Table Search](https://mrpekar98.github.io//publications/2024-07-14_a_large_scale_test_corpus_for_semantic_table_search/)
