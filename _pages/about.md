@@ -27,6 +27,6 @@ Positions
 
 Education
 ------
-* Ph.D in Computer Science, Aalborg University, 2025 (expected)
+* Ph.D in Computer Science, Aalborg University, 2026 (expected)
 * M.S. in Software, Aalborg University University, 2023
 * B.S. in Software, Aalborg University, 2020
