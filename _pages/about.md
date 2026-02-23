@@ -22,7 +22,7 @@ Publications
 Positions
 ------
 - Jun, 2024 - Sep, 2024, Hasso Plattner Institute, Research visitor
-- Sep, 2021 - Aug, 2025, Aalborg University, PhD candidate in semantic data lakes
+- Sep, 2021 - Aug, 2026, Aalborg University, PhD candidate in semantic data lakes
 - Nov, 2020 - Aug, 2021, Aalborg University, Research assistant on RDF database query optimization
 
 Education
